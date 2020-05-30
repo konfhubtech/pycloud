@@ -18,6 +18,9 @@ _"Building Search Experience for a Python Web Application", Aravind Putrevu, Dev
 
 [Slides] [https://aravind.dev/2020/05/elastic-app-search-python/](https://aravind.dev/2020/05/elastic-app-search-python/) 
 
+_Exploring Natural Language Processing using Azure, Usha Rengaraju, Principal Data Scientist, Infinite Sum Modelling_
+[Slides and Code][https://github.com/ushareng/PyCloud](https://github.com/ushareng/PyCloud)
+
 _“Identifying defaulters using Machine Learning", Ritesh Modi, Hon. Microsoft Regional Director_
 
 [Slides] [https://www.slideshare.net/CodeOps/identifying-defaulters-using-machine-learning-ritesh-modi](https://www.slideshare.net/CodeOps/identifying-defaulters-using-machine-learning-ritesh-modi)

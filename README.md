@@ -19,6 +19,7 @@ This is supporting material (slides, github repo links etc) for the sessions in 
 [Slides] [https://aravind.dev/2020/05/elastic-app-search-python/](https://aravind.dev/2020/05/elastic-app-search-python/) 
 
 _Exploring Natural Language Processing using Azure, Usha Rengaraju, Principal Data Scientist, Infinite Sum Modelling_
+
 [Slides and Code] [https://github.com/ushareng/PyCloud](https://github.com/ushareng/PyCloud)
 
 4. _“Identifying defaulters using Machine Learning", Ritesh Modi, Hon. Microsoft Regional Director_
